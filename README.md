@@ -7,10 +7,14 @@ Documentation for Breedbase Developers Wiki
 
 ## Database setup
 
+## Ontologies
+
 ## Wizard
 
 ## Phenotype data
 
-## Gentoyping data
+## Images
 
 ## NIRS data
+
+## Gentoyping data
