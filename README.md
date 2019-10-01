@@ -18,3 +18,7 @@ Documentation for Breedbase Developers Wiki
 ## NIRS data
 
 ## Gentoyping data
+
+## Updating the User Manual
+
+## Implementing and running tests
